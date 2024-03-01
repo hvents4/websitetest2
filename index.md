@@ -19,17 +19,17 @@ Chicago, IL
 </colgroup>
 <tbody>
 <tr class="odd">
-<td align="left">* Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup</td>
-<td align="left">* Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing
+<td align="left"> Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup</td>
+<td align="left"> Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing
 </tr>
 <tr class="even">
-<td align="left">* Data Analysis: Python, SQL, R, PowerBI, Excel</td>
-<td align="left">* Language: Conversational Spanish</td>
+<td align="left"> Data Analysis: Python, SQL, R, PowerBI, Excel</td>
+<td align="left"> Language: Conversational Spanish</td>
 </tr>
 </tbody>
 </table>
 
-### [**WORK EXPERIENCE**]
+### WORK EXPERIENCE
 
 #### **Chicago Transit Authority** \|Service Planning Intern \| Chicago, IL \| May 2023 - Present
 
@@ -45,49 +45,45 @@ Chicago, IL
 
 #### **UIC Great Cities Institute** \|Research Assistant \| Chicago, IL \| May 2022 – May 2023
 
-Created ArcGIS maps and data analysis for various research projects across the institute
+-   Created ArcGIS maps and data analysis for various research projects across the institute
 
-Managed all design, layout, and digital accessibility requirements in InDesign and Acrobat for publication of the 2023 Chicago Budget Community Engagement Report and Illinois Immigrant Impact Task Force Report
+-   Managed all design, layout, and digital accessibility requirements in InDesign and Acrobat for publication of the 2023 Chicago Budget Community Engagement Report and Illinois Immigrant Impact Task Force Report
 
-Initiated migration for entire website to new University managed platform on WordPress for improved accessibility
+-   Initiated migration for entire website to new University managed platform on WordPress for improved accessibility
 
-Managed Institute’s social media planning, event coordination, listserv, and newsletters
+-   Managed Institute’s social media planning, event coordination, listserv, and newsletters
 
 #### **Intouch Solutions** \| Project Manager \| Chicago, IL \| March 2021 – August 2022
 
-Managed cross-functional projects by organizing teams, dele and crafting strategic partnerships across 3 portfolios with over 100 active projects with budgets totaling \$15 million
+-   Managed cross-functional projects by organizing teams, dele and crafting strategic partnerships across 3 portfolios with over 100 active projects with budgets totaling \$15 million
 
-Analyzed burn reports weekly through PowerBI, Excel, and Workfront to pull insights and adjust spending
+-   Analyzed burn reports weekly through PowerBI, Excel, and Workfront to pull insights and adjust spending
 
-Developed timelines for multidisciplinary projects; organized monthly out-of-pocket billing across 10+ brands
+-   Developed timelines for multidisciplinary projects; organized monthly out-of-pocket billing across 10+ brands
 
 #### **Fusion92** \|Account/Project Coordinator \| Chicago, IL \| August 2018 - March 2021
 
-Communicated as the main point of contact for 5 clients daily on all business functions from asset creation to billing
+-   Communicated as the main point of contact for 5 clients daily on all business functions from asset creation to billing
 
-Built a new email campaign process in Marketo, handled email delivery including HTML editing, and managed direct mail campaigns for 100+ veterinary clinics through coordination with creative agency and vendor partners
+-   Built a new email campaign process in Marketo, handled email delivery including HTML editing, and managed direct mail campaigns for 100+ veterinary clinics through coordination with creative agency and vendor partners
 
-Supported production and project management for 80+ websites developed for Pathway Vet Alliance
+-   Supported production and project management for 80+ websites developed for Pathway Vet Alliance
 
-###**Previous Positions Include:**
+### **Previous Positions Include:**
 
-**Fusion92** \|Account Management Intern \| Chicago, IL \| June 2018 – August 2018
+**Fusion92** \| Account Management Intern \| Chicago, IL \| June 2018 – August 2018
 
-**Teach for America** \|Campus Ambassador \| Champaign, IL \| August 2018 – August 2019
+**Teach for America** \| Campus Ambassador \| Champaign, IL \| August 2018 – August 2019
 
-###[**VOLUNTEER**]
+### **VOLUNTEER**
 
-**Lincoln Park Conservatory** \|Docent
+**Lincoln Park Conservatory** \| Docent
 
 Chicago, IL \| August 2019 – August 2022
 
-**Habitat for Humanity at UIUC** \|Executive Secretary of Organization with 750+ Students
+**Habitat for Humanity at UIUC** \| Executive Secretary of Organization with 750+ Students \| Champaign, IL \| August 2015 – June 2019
 
-Champaign, IL \| August 2015 – June 2019
-
-**AmeriCorps** \|Illinois JusticeCorps Member
-
-Urbana, IL \| December 2015 - December 2016
+**AmeriCorps** \| Illinois JusticeCorps Member \| Urbana, IL \| December 2015 - December 2016
 
 ----
 
