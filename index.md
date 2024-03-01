@@ -12,15 +12,26 @@ Chicago, IL
 
 ## **TRANSPORTATION PLANNER**
 
-+--------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| -    Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup | -   Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing |
-+--------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
-| -    Data Analysis: Python, SQL, R, PowerBI, Excel                                                     | -   Language: Conversational Spanish                                                                         |
-+--------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td align="left">* Visualization: ArcGIS Pro, ArcGIS Online Applications, InDesign, Illustrator, Photoshop, Sketchup</td>
+<td align="left">* Project Management: Client communications, timeline monitoring, budget forecasts, billing, scope-writing
+</tr>
+<tr class="even">
+<td align="left">* Data Analysis: Python, SQL, R, PowerBI, Excel</td>
+<td align="left">* Language: Conversational Spanish</td>
+</tr>
+</tbody>
+</table>
 
-### [**WORK EXPERIENCE**]{.underline}
+### [**WORK EXPERIENCE**]
 
-##### **Chicago Transit Authority** \|Service Planning Intern \| Chicago, IL \| May 2023 - Present
+#### **Chicago Transit Authority** \|Service Planning Intern \| Chicago, IL \| May 2023 - Present
 
 -   Update Title VI triennial program and implement automated improvements to CTA’s process on data analysis by updating SQL queries, ArcGIS feature classes and maps, and connecting results to PowerBI
 
@@ -58,13 +69,13 @@ Built a new email campaign process in Marketo, handled email delivery including 
 
 Supported production and project management for 80+ websites developed for Pathway Vet Alliance
 
-### **Previous Positions Include:**
+###**Previous Positions Include:**
 
 **Fusion92** \|Account Management Intern \| Chicago, IL \| June 2018 – August 2018
 
 **Teach for America** \|Campus Ambassador \| Champaign, IL \| August 2018 – August 2019
 
-### [**VOLUNTEER**]{.underline}
+###[**VOLUNTEER**]
 
 **Lincoln Park Conservatory** \|Docent
 
